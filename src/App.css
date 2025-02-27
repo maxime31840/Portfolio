@@ -1,0 +1,22 @@
+@import url("https://fonts.googleapis.com/css2?family=Raleway:wght@500&display=swap");
+@import "tailwindcss";
+
+
+body {
+  scroll-behavior: smooth;
+  background: url('./assets/home-bg.jpg') no-repeat center center fixed;
+  background-size: cover;
+  color: var(--text);
+  font-family: "Raleway", serif !important;
+}
+
+nav {
+  font-size: 20px; /* Texte plus grand */
+}
+
+
+
+a {
+  text-decoration: none !important;
+}
+
