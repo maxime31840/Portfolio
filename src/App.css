@@ -4,7 +4,7 @@
 
 body {
   scroll-behavior: smooth;
-  background: url('./assets/home-bg.jpg') no-repeat center center fixed;
+  background: url('./assets/home.jpg') no-repeat center center fixed;
   background-size: cover;
   color: var(--text);
   font-family: "Raleway", serif !important;

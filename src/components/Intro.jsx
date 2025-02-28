@@ -1,7 +1,6 @@
 import React from "react";
 import homeLogo from "../Assets/home-logo.png";
 import Typewriter from "typewriter-effect";
-import Particle from "./Particle";
 
 function Type() {
     return (
@@ -9,9 +8,8 @@ function Type() {
         <Typewriter
           options={{
             strings: [
-              "Développeur Logiciel",
+              "Développeur web",
               "Freelancer",
-              "Développeur Mobile",
               "Ingénieur Développeur",
             ],
             autoStart: true,
@@ -27,27 +25,29 @@ function Type() {
 export default function Intro() {
   return (
     <section>
-        <Particle/>
       <div className="home-section p-24" id="home">
         <div className="home-content container mx-auto px-4 py-8">
           <div className="grid grid-cols-1 md:grid-cols-2 gap-8">
             <div className="home-header flex flex-col justify-center">
               <h1 className="text-4xl md:text-5xl font-bold pb-4 text-white">
-               Salut!{" "}
+               Bienvenue !{" "}
                 <span className="wave" role="img" aria-labelledby="wave">
                   👋🏻
                 </span>
               </h1>
 
+
               <h1 className="text-4xl md:text-5xl font-semibold text-white">
                 Je m'appelle
-                <strong className="main-name text-lime-500"> ADEL SAADNA</strong>
+                <strong className="main-name text-blue-500"> Maxime LOURDEL</strong>
               </h1>
+
 
               <div className="pt-12 text-left">
                 <Type />
               </div>
             </div>
+
 
             <div className="flex justify-center items-center p-24">
               <img
@@ -56,6 +56,7 @@ export default function Intro() {
                 className="img-fluid max-h-[450px]"
               />
             </div>
+
           </div>
         </div>
       </div>
