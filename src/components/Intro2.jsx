@@ -49,7 +49,7 @@ export default function Home2() {
                className="text-3xl text-gray-400 hover:text-blue-500 transition">
               <AiFillGithub />
             </a>
-            <a href="https://www.linkedin.com/in/soumyajit4419/" target="_blank" rel="noreferrer"
+            <a href="https://www.linkedin.com/in/maximelourdel" target="_blank" rel="noreferrer"
                className="text-3xl text-gray-400 hover:text-blue-500 transition">
               <FaLinkedinIn />
             </a>
