@@ -1,7 +1,7 @@
 {
+  "homepage": "https://maxime31840.github.io/Portfolio",
   "name": "portfolio",
   "private": true,
-  "homepage": "https://maxime31840.github.io/Portfolio",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
@@ -9,8 +9,7 @@
     "build": "vite build",
     "lint": "eslint .",
     "preview": "vite preview",
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build"
+    "deploy": "gh-pages -d dist"
   },
   "dependencies": {
     "@tailwindcss/postcss": "^4.0.9",
