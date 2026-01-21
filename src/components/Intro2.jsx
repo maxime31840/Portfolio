@@ -1,5 +1,5 @@
 import React from "react";
-import myImg from "../Assets/avatar-logo.png";
+import myImg from "../assets/avatar-logo.png";
 import Tilt from "react-parallax-tilt";
 import { AiFillGithub, AiOutlineTwitter, AiFillInstagram } from "react-icons/ai";
 import { FaLinkedinIn } from "react-icons/fa";

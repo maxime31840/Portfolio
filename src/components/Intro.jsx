@@ -1,5 +1,5 @@
 import React from "react";
-import homeLogo from "../Assets/home-logo.png";
+import homeLogo from "../assets/home-logo.png";
 import Typewriter from "typewriter-effect";
 
 function Type() {

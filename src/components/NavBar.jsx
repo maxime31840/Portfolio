@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from "react";
 import { Link } from "react-router-dom";
-import logo from "../Assets/logo3.png";
+import logo from "../assets/logo3.png";
 import { AiOutlineHome, AiOutlineFundProjectionScreen, AiOutlineUser, AiFillStar } from "react-icons/ai";
 import { CgFileDocument, CgGitFork } from "react-icons/cg";
 import { ImBlog } from "react-icons/im";
