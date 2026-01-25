@@ -1,5 +1,5 @@
 import React from "react";
-import morpion from "../../assets/morpion.png";
+// import aimlab from "../../assets/aimlab.png";
 import samurai from "../../assets/samurai.png";
 import chifoumi from "../../assets/chifoumi.png";
 
@@ -11,12 +11,12 @@ export default function GridProjet() {
 
             <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
                 <div className="shadow-lg shadow-blue-500 rounded-2xl p-4 transform transition-transform duration-300 hover:scale-105 hover:rotate-1 flex flex-col justify-between h-full">
-                    <img src={morpion} alt="Projet morpion en python" className="w-full h-40 object-contain rounded-xl mb-4" />
-                    <h2 className="text-xl font-semibold">Morpion en Python</h2>
-                    <p className="text-white-600 my-2">Un jeu du morpion en python avec une interface graphique tkinter pour s'amuser entre amis.</p>
+                    <img src={"/aimlab.png"} alt="projet aimlab en js" className="w-full h-40 object-contain rounded-xl mb-4" />
+                    <h2 className="text-xl font-semibold">AimLab</h2>
+                    <p className="text-white-600 my-2">Un jeu pour stopper l'ennui au boulot ! Entrainner sa visée n'a jamais été aussi amusant</p>
                     <div className="mt-auto">
                         <button className="rounded-md bg-blue-600 py-2 px-4 border border-transparent text-center text-sm text-white transition-all transform duration-300 hover:bg-blue-700 hover:scale-105 hover:shadow-lg focus:bg-blue-700 focus:shadow-none active:bg-blue-800 active:scale-95 ml-2">
-                            <a href="https://github.com/maxime31840/morpion" target="_blank" rel="noopener noreferrer">Github</a>
+                            <a href="https://aim-lab-lake.vercel.app/" target="_blank" rel="noopener noreferrer">Lien du site</a>
                         </button>
                     </div>
                 </div>
