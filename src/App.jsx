@@ -9,11 +9,10 @@ import Projet from "./components/Projet/Projet";
 import Contact from "./components/Contact/Contact";
 import Epreuve from "./components/EpreuveE5";
 import Ecole from "./components/Ecole";
-
-
-
-
-
+import Veille from "./components/Veille";
+import VeilleDetail1 from "./components/VeilleDetail1";
+import VeilleDetail2 from "./components/VeilleDetail2";
+import VeilleDetail3 from "./components/VeilleDetail3";
 
 export default function App() {
   return (
@@ -26,9 +25,12 @@ export default function App() {
         <Route path="/Contact" element={<Contact />} />
         <Route path="/Epreuve" element={<Epreuve />} />
         <Route path="/Ecole" element={<Ecole />} />
+        <Route path="/Veille" element={<Veille />} />
+        <Route path="/Veille/algorithmes-recommandation" element={<VeilleDetail1 />} />
+        <Route path="/Veille/ia-generative" element={<VeilleDetail2 />} />
+        <Route path="/Veille/cybersecurite-pme" element={<VeilleDetail3 />} />
       </Routes>
       <Footer />
     </div>
   );
 }
-

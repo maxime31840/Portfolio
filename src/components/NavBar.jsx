@@ -48,6 +48,7 @@ export default function NavBar() {
             { to: "/Contact", label: "Contactez-moi", icon: <CgFileDocument className="text-xl" /> },
             { to: "/Epreuve", label: "Épreuve E5", icon: <CgFileDocument className="text-xl" /> },
             { to: "/Ecole", label: "Mon école", icon: <AiOutlineFundProjectionScreen className="text-xl" /> },
+            { to: "/Veille", label: "Veille", icon: <ImBlog className="text-xl" /> },
 
           ].map((item, index) => (
             <Link

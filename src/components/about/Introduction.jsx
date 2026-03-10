@@ -11,13 +11,13 @@ export default function Introduction() {
 
 
           <p className="text-lg text-justify">
-           Salut à tous, je m'appelle{" "}
+           Bonjour à tous, je m'appelle{" "}
             <span className="text-blue-500 font-semibold">Maxime LOURDEL</span>{" "}
             j'habite à <span className="text-blue-500 font-semibold">Toulouse.</span>
             <br />
-            Je suis actuellement à la recherche d'une{" "}<span className="text-blue-500 font-semibold">Alternance.</span>
+            Je suis actuellement à la recherche d'une{" "}<span className="text-blue-500 font-semibold">Alternance.</span>pour ma suite d'étude en bachelor 3.
             <br />
-            J'ai obtenue mon diplôme de{" "}<span className="text-blue-500 font-semibold">Baccalauréat STI2D{" "}</span>à LPO Saint-Exupéry.
+            J'ai obtenue mon diplôme de{" "}<span className="text-blue-500 font-semibold">BTS SIO option SLAM{" "}</span>Iris Mediaschool Toulouse.
             <br />
             <br />
             Dans mon temps libre j'adore !
@@ -26,21 +26,21 @@ export default function Introduction() {
 
           <ul className="mt-4 space-y-2">
             <li className="flex items-center">
-              <ImPointRight className="text-blue-500 mr-2" /> Jouer aux jeux vidéo
+              <ImPointRight className="text-blue-500 mr-2" /> Lire
             </li>
             <li className="flex items-center">
               <ImPointRight className="text-blue-500 mr-2" /> Voyager
             </li>
             <li className="flex items-center">
-              <ImPointRight className="text-blue-500 mr-2" /> Faire du sport
+              <ImPointRight className="text-blue-500 mr-2" /> Faire du sport (beaucoup)
             </li>
           </ul>
 
 
           <div className="flex justify-center mt-4">
             <a 
-                href="/cv_maxime_lourdel.pdf" 
-                download="Maxime_Lourdel_cv.pdf" 
+                href="/cv_graphique_ML.pdf" 
+                download="cv_graphique_ML.pdf" 
                 className="px-6 py-2 bg-blue-500 text-white rounded-lg flex items-center gap-2 hover:bg-blue-700 transition-all w-fit"
             >
                 <AiOutlineDownload className="text-xl" />Télécharger mon CV
