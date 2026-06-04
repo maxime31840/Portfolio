@@ -1,0 +1,129 @@
+<svg width="1427" height="492" viewBox="0 0 1427 492" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1427" height="492" rx="20" fill="url(#bg)"/>
+  <rect width="1427" height="54" fill="#155AAF"/>
+  <text x="20" y="33" fill="white" font-family="Segoe UI, Arial, sans-serif" font-size="16" font-weight="700">Projet Tennis Academy</text>
+  <g transform="translate(1268 12)">
+    <circle cx="20" cy="15" r="15" fill="#1E3A5F"/>
+    <text x="20" y="20" text-anchor="middle" fill="white" font-family="Segoe UI, Arial, sans-serif" font-size="11" font-weight="700">ML</text>
+    <circle cx="47" cy="15" r="15" fill="#F59E0B"/>
+    <text x="47" y="20" text-anchor="middle" fill="#1E293B" font-family="Segoe UI, Arial, sans-serif" font-size="11" font-weight="700">CC</text>
+  </g>
+  <g transform="translate(8 66)">
+    <g transform="translate(0 0)">
+      <rect width="273" height="324" rx="16" fill="#F3F4F6"/>
+      <text x="20" y="30" fill="#1F2937" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="700">Backlog</text>
+      <text x="190" y="30" fill="#4B5563" font-family="Segoe UI, Arial, sans-serif" font-size="14">3</text>
+      <rect x="8" y="48" width="257" height="65" rx="12" fill="white" stroke="#D1D5DB"/>
+      <text x="20" y="68" fill="#374151" font-family="Segoe UI, Arial, sans-serif" font-size="14">Système de notifications</text>
+      <text x="20" y="95" fill="#6B7280" font-family="Segoe UI, Arial, sans-serif" font-size="13">☑ 0/4</text>
+      <rect x="8" y="116" width="257" height="90" rx="12" fill="white" stroke="#2563EB" stroke-width="2"/>
+      <text x="20" y="145" fill="#374151" font-family="Segoe UI, Arial, sans-serif" font-size="14">Messagerie entre formateur et</text>
+      <text x="20" y="167" fill="#374151" font-family="Segoe UI, Arial, sans-serif" font-size="14">apprenant</text>
+      <text x="248" y="133" fill="#111827" font-family="Segoe UI, Arial, sans-serif" font-size="14">✓</text>
+      <text x="20" y="194" fill="#6B7280" font-family="Segoe UI, Arial, sans-serif" font-size="13">☰   ☑ 0/4</text>
+      <rect x="8" y="211" width="257" height="65" rx="12" fill="white" stroke="#D1D5DB"/>
+      <text x="20" y="232" fill="#374151" font-family="Segoe UI, Arial, sans-serif" font-size="14">Export PDF des résultats</text>
+      <text x="20" y="259" fill="#6B7280" font-family="Segoe UI, Arial, sans-serif" font-size="13">☰   ☑ 0/4</text>
+      <text x="20" y="308" fill="#4B5563" font-family="Segoe UI, Arial, sans-serif" font-size="16">+ Ajouter une carte</text>
+    </g>
+    <g transform="translate(284 0)">
+      <rect width="273" height="340" rx="16" fill="#F3F4F6"/>
+      <text x="20" y="30" fill="#1F2937" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="700">A faire</text>
+      <text x="183" y="30" fill="#4B5563" font-family="Segoe UI, Arial, sans-serif" font-size="14">3</text>
+      <rect x="8" y="48" width="257" height="68" rx="12" fill="white" stroke="#D1D5DB"/>
+      <rect x="20" y="56" width="42" height="8" rx="4" fill="#C4F08A"/>
+      <text x="20" y="85" fill="#374151" font-family="Segoe UI, Arial, sans-serif" font-size="14">Créer la base de données</text>
+      <rect x="105" y="92" width="128" height="24" rx="8" fill="#FED7AA"/>
+      <text x="114" y="108" fill="#B45309" font-family="Segoe UI, Arial, sans-serif" font-size="12">Status: Priorité haute</text>
+      <circle cx="240" cy="103" r="12" fill="#F59E0B"/>
+      <text x="240" y="108" text-anchor="middle" fill="#1E293B" font-family="Segoe UI, Arial, sans-serif" font-size="10" font-weight="700">CC</text>
+      <rect x="8" y="120" width="257" height="76" rx="12" fill="white" stroke="#D1D5DB"/>
+      <rect x="20" y="128" width="40" height="8" rx="4" fill="#4ADE80"/>
+      <text x="20" y="158" fill="#374151" font-family="Segoe UI, Arial, sans-serif" font-size="14">Créer la page de connexion</text>
+      <text x="20" y="184" fill="#6B7280" font-family="Segoe UI, Arial, sans-serif" font-size="13">◉   ☰   ☑ 0/5</text>
+      <circle cx="240" cy="166" r="12" fill="#223B69"/>
+      <text x="240" y="171" text-anchor="middle" fill="white" font-family="Segoe UI, Arial, sans-serif" font-size="10" font-weight="700">ML</text>
+      <rect x="8" y="201" width="257" height="76" rx="12" fill="white" stroke="#D1D5DB"/>
+      <rect x="20" y="209" width="40" height="8" rx="4" fill="#2563EB"/>
+      <text x="20" y="239" fill="#374151" font-family="Segoe UI, Arial, sans-serif" font-size="14">Créer l'espace Administrateur</text>
+      <text x="20" y="264" fill="#6B7280" font-family="Segoe UI, Arial, sans-serif" font-size="13">☰   ☑ 0/5</text>
+      <text x="20" y="317" fill="#4B5563" font-family="Segoe UI, Arial, sans-serif" font-size="16">+ Ajouter une carte</text>
+    </g>
+    <g transform="translate(568 0)">
+      <rect width="273" height="276" rx="16" fill="#F3F4F6"/>
+      <text x="20" y="30" fill="#1F2937" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="700">En cours</text>
+      <text x="190" y="30" fill="#4B5563" font-family="Segoe UI, Arial, sans-serif" font-size="14">2</text>
+      <rect x="8" y="48" width="257" height="74" rx="12" fill="white" stroke="#D1D5DB"/>
+      <rect x="20" y="56" width="42" height="8" rx="4" fill="#B7F7D8"/>
+      <text x="20" y="83" fill="#374151" font-family="Segoe UI, Arial, sans-serif" font-size="14">Développer le catalogue des</text>
+      <text x="20" y="104" fill="#374151" font-family="Segoe UI, Arial, sans-serif" font-size="14">formations</text>
+      <text x="20" y="130" fill="#6B7280" font-family="Segoe UI, Arial, sans-serif" font-size="13">◉   ☰   ☑ 4/5</text>
+      <circle cx="242" cy="123" r="12" fill="#223B69"/>
+      <text x="242" y="128" text-anchor="middle" fill="white" font-family="Segoe UI, Arial, sans-serif" font-size="10" font-weight="700">ML</text>
+      <rect x="8" y="128" width="257" height="98" rx="12" fill="white" stroke="#D1D5DB"/>
+      <rect x="20" y="158" width="42" height="8" rx="4" fill="#2F9E66"/>
+      <text x="20" y="188" fill="#374151" font-family="Segoe UI, Arial, sans-serif" font-size="14">Créer le formulaire d'inscription</text>
+      <text x="20" y="214" fill="#6B7280" font-family="Segoe UI, Arial, sans-serif" font-size="13">☰   ☑ 2/5</text>
+      <rect x="104" y="205" width="98" height="24" rx="8" fill="#F5D0FE"/>
+      <text x="114" y="221" fill="#A21CAF" font-family="Segoe UI, Arial, sans-serif" font-size="12">Status: En revue</text>
+      <circle cx="241" cy="214" r="12" fill="#F59E0B"/>
+      <text x="241" y="219" text-anchor="middle" fill="#1E293B" font-family="Segoe UI, Arial, sans-serif" font-size="10" font-weight="700">CC</text>
+      <text x="20" y="254" fill="#4B5563" font-family="Segoe UI, Arial, sans-serif" font-size="16">+ Ajouter une carte</text>
+    </g>
+    <g transform="translate(852 0)">
+      <rect width="273" height="332" rx="16" fill="#F3F4F6"/>
+      <text x="20" y="30" fill="#1F2937" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="700">Test</text>
+      <text x="181" y="30" fill="#4B5563" font-family="Segoe UI, Arial, sans-serif" font-size="14">2</text>
+      <rect x="8" y="48" width="257" height="74" rx="12" fill="white" stroke="#D1D5DB"/>
+      <rect x="20" y="56" width="42" height="8" rx="4" fill="#A855F7"/>
+      <text x="20" y="84" fill="#374151" font-family="Segoe UI, Arial, sans-serif" font-size="14">Tester la connexion utilisateur</text>
+      <text x="20" y="111" fill="#6B7280" font-family="Segoe UI, Arial, sans-serif" font-size="13">◉   ☰   ⍉ 1   ☑ 3/5</text>
+      <circle cx="218" cy="106" r="12" fill="#223B69"/>
+      <text x="218" y="111" text-anchor="middle" fill="white" font-family="Segoe UI, Arial, sans-serif" font-size="10" font-weight="700">ML</text>
+      <circle cx="247" cy="106" r="12" fill="#F59E0B"/>
+      <text x="247" y="111" text-anchor="middle" fill="#1E293B" font-family="Segoe UI, Arial, sans-serif" font-size="10" font-weight="700">CC</text>
+      <rect x="8" y="128" width="257" height="109" rx="12" fill="white" stroke="#D1D5DB"/>
+      <rect x="20" y="136" width="42" height="8" rx="4" fill="#A855F7"/>
+      <text x="20" y="166" fill="#374151" font-family="Segoe UI, Arial, sans-serif" font-size="14">Tester l'inscription à une</text>
+      <text x="20" y="187" fill="#374151" font-family="Segoe UI, Arial, sans-serif" font-size="14">formation</text>
+      <text x="20" y="214" fill="#6B7280" font-family="Segoe UI, Arial, sans-serif" font-size="13">◉   ☰   ☑ 4/5</text>
+      <rect x="20" y="223" width="150" height="24" rx="8" fill="#CFFAFE"/>
+      <text x="29" y="239" fill="#0F766E" font-family="Segoe UI, Arial, sans-serif" font-size="12">Status: Priorité moyenne</text>
+      <circle cx="218" cy="221" r="12" fill="#223B69"/>
+      <text x="218" y="226" text-anchor="middle" fill="white" font-family="Segoe UI, Arial, sans-serif" font-size="10" font-weight="700">ML</text>
+      <circle cx="247" cy="221" r="12" fill="#F59E0B"/>
+      <text x="247" y="226" text-anchor="middle" fill="#1E293B" font-family="Segoe UI, Arial, sans-serif" font-size="10" font-weight="700">CC</text>
+      <text x="20" y="307" fill="#4B5563" font-family="Segoe UI, Arial, sans-serif" font-size="16">+ Ajouter une carte</text>
+    </g>
+    <g transform="translate(1136 0)">
+      <rect width="275" height="256" rx="16" fill="#F3F4F6"/>
+      <text x="20" y="30" fill="#1F2937" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="700">Terminé</text>
+      <text x="207" y="30" fill="#4B5563" font-family="Segoe UI, Arial, sans-serif" font-size="14">2</text>
+      <rect x="8" y="48" width="259" height="62" rx="12" fill="white" stroke="#D1D5DB"/>
+      <rect x="20" y="56" width="42" height="8" rx="4" fill="#F472B6"/>
+      <text x="20" y="84" fill="#374151" font-family="Segoe UI, Arial, sans-serif" font-size="14">Définition des besoins</text>
+      <rect x="70" y="79" width="50" height="22" rx="6" fill="#65A30D"/>
+      <text x="83" y="94" fill="white" font-family="Segoe UI, Arial, sans-serif" font-size="12" font-weight="700">☑ 6/6</text>
+      <rect x="123" y="79" width="102" height="22" rx="6" fill="#DBEAFE"/>
+      <text x="132" y="94" fill="#2563EB" font-family="Segoe UI, Arial, sans-serif" font-size="12">Status: Terminé</text>
+      <circle cx="248" cy="86" r="12" fill="#223B69"/>
+      <text x="248" y="91" text-anchor="middle" fill="white" font-family="Segoe UI, Arial, sans-serif" font-size="10" font-weight="700">ML</text>
+      <rect x="8" y="116" width="259" height="62" rx="12" fill="white" stroke="#D1D5DB"/>
+      <rect x="20" y="124" width="42" height="8" rx="4" fill="#FACC15"/>
+      <text x="20" y="151" fill="#374151" font-family="Segoe UI, Arial, sans-serif" font-size="14">Maquettes de l'application</text>
+      <rect x="78" y="147" width="50" height="22" rx="6" fill="#65A30D"/>
+      <text x="91" y="162" fill="white" font-family="Segoe UI, Arial, sans-serif" font-size="12" font-weight="700">☑ 5/5</text>
+      <rect x="131" y="147" width="102" height="22" rx="6" fill="#DBEAFE"/>
+      <text x="140" y="162" fill="#2563EB" font-family="Segoe UI, Arial, sans-serif" font-size="12">Status: Terminé</text>
+      <circle cx="248" cy="154" r="12" fill="#223B69"/>
+      <text x="248" y="159" text-anchor="middle" fill="white" font-family="Segoe UI, Arial, sans-serif" font-size="10" font-weight="700">ML</text>
+      <text x="20" y="232" fill="#4B5563" font-family="Segoe UI, Arial, sans-serif" font-size="16">+ Ajouter une carte</text>
+    </g>
+  </g>
+  <defs>
+    <linearGradient id="bg" x1="713.5" y1="0" x2="713.5" y2="492" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#2069C8"/>
+      <stop offset="1" stop-color="#38A7D8"/>
+    </linearGradient>
+  </defs>
+</svg>

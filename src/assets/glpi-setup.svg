@@ -1,0 +1,29 @@
+<svg width="1280" height="900" viewBox="0 0 1280 900" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1280" height="900" fill="#294381"/>
+  <rect x="28" y="40" width="1224" height="820" fill="#4763A3" fill-opacity="0.95"/>
+  <text x="54" y="110" fill="white" font-family="Arial, sans-serif" font-size="84" font-weight="700">Glpi</text>
+  <text x="540" y="108" fill="#F4D27A" font-family="Arial, sans-serif" font-size="40" font-weight="700">GLPI SETUP</text>
+  <text x="598" y="212" fill="white" font-family="Arial, sans-serif" font-size="34" font-weight="700">Step 2</text>
+  <text x="404" y="286" fill="white" font-family="Arial, sans-serif" font-size="34" font-weight="700">Test of the connection at the database</text>
+
+  <rect x="48" y="334" width="1184" height="112" rx="12" fill="white"/>
+  <rect x="48" y="334" width="8" height="112" rx="4" fill="#2FC35A"/>
+  <path d="M79 390L100 411L136 372" stroke="#2FC35A" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="150" y="395" fill="#2FC35A" font-family="Arial, sans-serif" font-size="28" font-weight="700">Database connection successful</text>
+
+  <text x="482" y="558" fill="white" font-family="Arial, sans-serif" font-size="30" font-weight="700">Please select a database:</text>
+
+  <rect x="86" y="604" width="1108" height="146" rx="8" fill="white"/>
+  <text x="160" y="664" fill="#111827" font-family="Arial, sans-serif" font-size="28">Create a new database or use an existing one:</text>
+  <circle cx="126" cy="705" r="14" stroke="#D1D5DB" stroke-width="3"/>
+  <rect x="162" y="686" width="500" height="56" rx="8" fill="white" stroke="#D1D5DB" stroke-width="3"/>
+
+  <rect x="86" y="774" width="1108" height="88" rx="6" fill="#445C96" stroke="#E1B968" stroke-width="2"/>
+  <circle cx="126" cy="818" r="14" fill="#FFD056"/>
+  <circle cx="126" cy="818" r="7" fill="#FFF6CF"/>
+  <text x="166" y="828" fill="white" font-family="Arial, sans-serif" font-size="28">glpidb</text>
+
+  <rect x="52" y="864" width="230" height="64" rx="8" fill="#F4C75D"/>
+  <text x="106" y="906" fill="#1F2937" font-family="Arial, sans-serif" font-size="28" font-weight="700">Continue</text>
+  <path d="M225 886L242 903L225 920" stroke="#1F2937" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

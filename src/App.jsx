@@ -13,6 +13,7 @@ import Veille from "./components/Veille";
 import VeilleDetail1 from "./components/VeilleDetail1";
 import VeilleDetail2 from "./components/VeilleDetail2";
 import VeilleDetail3 from "./components/VeilleDetail3";
+import DroitsUtilisateurs from "./components/DroitsUtilisateurs";
 
 export default function App() {
   return (
@@ -29,6 +30,7 @@ export default function App() {
         <Route path="/Veille/algorithmes-recommandation" element={<VeilleDetail1 />} />
         <Route path="/Veille/ia-generative" element={<VeilleDetail2 />} />
         <Route path="/Veille/cybersecurite-pme" element={<VeilleDetail3 />} />
+        <Route path="/droits-utilisateurs" element={<DroitsUtilisateurs />} />
       </Routes>
       <Footer />
     </div>

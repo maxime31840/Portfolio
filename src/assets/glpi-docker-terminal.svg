@@ -1,0 +1,40 @@
+<svg width="1600" height="900" viewBox="0 0 1600 900" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1600" height="900" rx="28" fill="#2C2D38"/>
+  <circle cx="30" cy="34" r="10" fill="#FF5F57"/>
+  <circle cx="66" cy="34" r="10" fill="#FEBC2E"/>
+  <circle cx="102" cy="34" r="10" fill="#28C840"/>
+  <text x="660" y="44" fill="white" font-family="Consolas, monospace" font-size="20" font-weight="700">heyvaldemar.com</text>
+
+  <g font-family="Consolas, monospace" font-size="28">
+    <text x="22" y="102" fill="#37D67A">ubuntu@docker-compose</text>
+    <text x="380" y="102" fill="#B794F4">:~$</text>
+    <text x="434" y="102" fill="#F7FAFC">docker network create traefik-network</text>
+    <text x="22" y="144" fill="#E5E7EB">f0c0c77c47d3883cfe75b7d3c33b2f8a809f95199e593affb05adafc653eece4</text>
+
+    <text x="22" y="202" fill="#37D67A">ubuntu@docker-compose</text>
+    <text x="380" y="202" fill="#B794F4">:~$</text>
+    <text x="434" y="202" fill="#F7FAFC">docker network create glpi-network</text>
+    <text x="22" y="244" fill="#E5E7EB">fc967692dfa8d74ce8f6061b697ec4cc855012d958450eda61f0e5bc4516f038</text>
+
+    <text x="22" y="302" fill="#37D67A">ubuntu@docker-compose</text>
+    <text x="380" y="302" fill="#B794F4">:~$</text>
+    <text x="434" y="302" fill="#F7FAFC">git clone https://github.com/heyValdemar/glpi-traefik-letsencrypt-docker-compose.git</text>
+
+    <text x="22" y="352" fill="#E5E7EB">Cloning into 'glpi-traefik-letsencrypt-docker-compose'...</text>
+    <text x="22" y="392" fill="#E5E7EB">remote: Enumerating objects: 53, done.</text>
+    <text x="22" y="432" fill="#E5E7EB">remote: Counting objects: 100% (53/53), done.</text>
+    <text x="22" y="472" fill="#E5E7EB">remote: Compressing objects: 100% (49/49), done.</text>
+    <text x="22" y="512" fill="#E5E7EB">remote: Total 53 (delta 23), reused 13 (delta 2), pack-reused 0</text>
+    <text x="22" y="552" fill="#E5E7EB">Receiving objects: 100% (53/53), 58.81 KiB | 3.27 MiB/s, done.</text>
+    <text x="22" y="592" fill="#E5E7EB">Resolving deltas: 100% (23/23), done.</text>
+
+    <text x="22" y="652" fill="#37D67A">ubuntu@docker-compose</text>
+    <text x="380" y="652" fill="#B794F4">:~$</text>
+    <text x="434" y="652" fill="#F7FAFC">cd glpi-traefik-letsencrypt-docker-compose</text>
+
+    <text x="22" y="712" fill="#37D67A">ubuntu@docker-compose</text>
+    <text x="380" y="712" fill="#B794F4">:~/glpi-traefik-letsencrypt-docker-compose$</text>
+    <text x="930" y="712" fill="#F7FAFC">docker compose -f glpi-traefik-letsencrypt-docker-compose.yml -p glpi up -d</text>
+    <rect x="1498" y="688" width="16" height="36" fill="#F7FAFC"/>
+  </g>
+</svg>
