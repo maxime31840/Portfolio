@@ -5,11 +5,36 @@ import cyberSecurity from "../../assets/cybersécurité.png";
 import glpiDashboard from "../../assets/glpi-dashboard.svg";
 import glpiDockerTerminal from "../../assets/glpi-docker-terminal.svg";
 import glpiSetup from "../../assets/glpi-setup.svg";
+import ticketingApi from "../../assets/ticketing-api.svg";
 import tennisAcademyLogo from "../../assets/tennis-academy-logo.svg";
 import tennis1 from "../../assets/tennis1.png";
 import tennis2 from "../../assets/tennis2.png";
 
 const projects = [
+  {
+    id: "ticketing-api",
+    title: "API de gestion de tickets",
+    category: "Projet scolaire",
+    image: ticketingApi,
+    shortDescription:
+      "Une API REST de ticketing permettant de créer, consulter, modifier et supprimer des tickets avec persistance SQL.",
+    context:
+      "L'objectif était de construire un back-end clair et exploitable pour la gestion de tickets, avec une architecture simple autour de Node.js, Express et Sequelize. Le projet m'a permis de travailler la logique CRUD, la validation des requêtes HTTP et la structuration d'une documentation technique utilisable pour les tests et la maintenance.",
+    stack: ["Node.js", "Express", "Sequelize", "SQL", "Postman"],
+    achievements: [
+      "Mise en place des endpoints CRUD pour créer, lister, consulter, modifier et supprimer des tickets.",
+      "Validation des identifiants et des champs obligatoires pour sécuriser les traitements côté API.",
+      "Structuration d'un modèle de ticket avec gestion des statuts, priorités et réponses techniques.",
+      "Rédaction d'une documentation API détaillée avec cas d'erreur, scénarios de test Postman et recommandations techniques.",
+    ],
+    skills: [
+      "Concevoir une API REST structurée",
+      "Manipuler une base de données via un ORM",
+      "Valider et traiter des requêtes HTTP",
+      "Documenter et tester un service back-end",
+    ],
+    links: [],
+  },
   {
     id: "aimlab",
     title: "AimLab",

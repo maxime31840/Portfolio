@@ -1,0 +1,34 @@
+<svg width="800" height="600" viewBox="0 0 800 600" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="800" height="600" rx="36" fill="#020617"/>
+  <rect x="36" y="36" width="728" height="528" rx="28" fill="url(#bg)"/>
+  <rect x="92" y="108" width="616" height="384" rx="24" fill="#0F172A" stroke="#38BDF8" stroke-opacity="0.28" stroke-width="2"/>
+  <rect x="124" y="148" width="208" height="44" rx="14" fill="#0369A1"/>
+  <text x="146" y="177" fill="#E0F2FE" font-family="Arial, sans-serif" font-size="24" font-weight="700">Ticketing API</text>
+  <rect x="124" y="228" width="260" height="168" rx="18" fill="#111827"/>
+  <rect x="416" y="228" width="168" height="168" rx="18" fill="#111827"/>
+  <rect x="606" y="228" width="70" height="168" rx="18" fill="#111827"/>
+  <rect x="146" y="258" width="154" height="16" rx="8" fill="#38BDF8"/>
+  <rect x="146" y="292" width="202" height="12" rx="6" fill="#334155"/>
+  <rect x="146" y="320" width="180" height="12" rx="6" fill="#334155"/>
+  <rect x="146" y="348" width="118" height="12" rx="6" fill="#334155"/>
+  <rect x="146" y="372" width="92" height="26" rx="13" fill="#22C55E" fill-opacity="0.2" stroke="#22C55E" stroke-opacity="0.5"/>
+  <text x="172" y="390" fill="#86EFAC" font-family="Arial, sans-serif" font-size="14" font-weight="700">OPEN</text>
+  <rect x="438" y="256" width="124" height="20" rx="10" fill="#F59E0B" fill-opacity="0.18" stroke="#F59E0B" stroke-opacity="0.5"/>
+  <text x="464" y="271" fill="#FCD34D" font-family="Arial, sans-serif" font-size="13" font-weight="700">PRIORITY</text>
+  <rect x="438" y="302" width="92" height="92" rx="18" fill="#082F49"/>
+  <path d="M464 334H503" stroke="#38BDF8" stroke-width="10" stroke-linecap="round"/>
+  <path d="M464 356H489" stroke="#38BDF8" stroke-width="10" stroke-linecap="round"/>
+  <path d="M628 260H654" stroke="#38BDF8" stroke-width="8" stroke-linecap="round"/>
+  <path d="M628 290H654" stroke="#38BDF8" stroke-width="8" stroke-linecap="round"/>
+  <path d="M628 320H654" stroke="#38BDF8" stroke-width="8" stroke-linecap="round"/>
+  <path d="M628 350H654" stroke="#38BDF8" stroke-width="8" stroke-linecap="round"/>
+  <path d="M628 380H654" stroke="#38BDF8" stroke-width="8" stroke-linecap="round"/>
+  <rect x="124" y="430" width="552" height="32" rx="16" fill="#082F49"/>
+  <text x="150" y="451" fill="#7DD3FC" font-family="Arial, sans-serif" font-size="16" font-weight="700">CRUD | Express | Sequelize | SQL | Postman</text>
+  <defs>
+    <linearGradient id="bg" x1="58" y1="70" x2="734" y2="546" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0F172A"/>
+      <stop offset="1" stop-color="#082F49"/>
+    </linearGradient>
+  </defs>
+</svg>
